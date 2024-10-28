@@ -96,7 +96,7 @@ body{
 }
 
 .user-chat-box {
-    width: 100%;
+    width: 70%;
     padding: 20px;
     background-color: #fff;
     display: flex;
@@ -122,7 +122,7 @@ body{
     filter: drop-shadow(2px 2px 10px black);
 }
 .ai-chat-box {
-    width: 100%;
+    width: 70%;
     padding: 20px;
     background-color: none;
     display: flex;
