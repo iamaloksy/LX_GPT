@@ -4,7 +4,7 @@ let chatContainer = document.querySelector(".chat-container");
 let btn = document.querySelector(".btn");
 let userMessage = null;
 
-let Api_Url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyCQcjSJcKZuilY8zjo8gZYKV3BDEzynO48'; // Replace with your actual API URL
+let Api_Url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=AIzaSyCQgaRm0lDw7WaXsqycVVjvf1tkGzT_00w'; // Replace with your actual API URL
 
 //AIzaSyCQgaRm0lDw7WaXsqycVVjvf1tkGzT_00w   //1.0
 //AIzaSyCQcjSJcKZuilY8zjo8gZYKV3BDEzynO48   //2.0
